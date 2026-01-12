@@ -10,7 +10,7 @@ body {
 }
 
 .navbar a {
-    font-size: 16px;
+    font-size: 12px;
 }
 
 .navbar-custom {
@@ -37,5 +37,14 @@ body {
 main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
-    margin-top: 48px;
+    margin-top: 0px;
+    height: 100vh;
+}
+
+/* Hero section */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/hero-image.jpg") no-repeat center center/cover;
+    position: relative;
 }
