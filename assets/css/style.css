@@ -48,3 +48,11 @@ main {
     background: url("../images/hero-image.jpg") no-repeat center center/cover;
     position: relative;
 }
+
+.container {
+    width: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
