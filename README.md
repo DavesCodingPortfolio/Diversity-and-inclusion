@@ -16,7 +16,7 @@ Accreditation
 
 www.stackoverflow.com
 
-Bootstrap Documentation - Navbar - Containers, gird and
+Bootstrap Documentation - Navbar - Containers, grid and columns
 
 Pexels.com - Images of inclusion throughout site
 
@@ -27,3 +27,5 @@ Love running project - Footer and hero image
 Tom - Troubleshooting
 
 Co-Pilot - Textual information used within webpage
+
+AI was used sparingly on this project, the reason was that I wanted to create this project without relying on AI and using my own skills on locating and using documentation on the Internet.
